@@ -23,7 +23,7 @@ def verbing(s):
       r = s + 'ly'
     else:
       r = s + 'ing'
-  return rß
+  return r
 
 # E. not_bad
 # Given a string, find the first appearance of the
